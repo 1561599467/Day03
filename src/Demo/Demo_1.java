@@ -4,7 +4,7 @@ public class Demo_1 {
         for (int i = 3; i <= 10; ++i) {
 
             if (i % 2 == 0) {
-                sum += i;//sum = sum + i
+                sum -= i;//sum = sum + i
             }
 
         }
